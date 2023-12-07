@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:0A:D5:FE:5C:EF, 2023-12-07 20:35:50, 2023-12-07 20:58:34,  3, 360, WPA2, CCMP, PSK, -44,    12154,     3409,   0.  0.  0.  0,   6, Apt 29, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+42:E4:5B:AC:BB:ED, 2023-12-07 20:38:06, 2023-12-07 20:46:07, -78,      678, B0:0A:D5:FE:5C:EF,
+C0:E4:34:BB:C8:01, 2023-12-07 21:55:52, 2023-12-07 20:58:17, -28,      778, B0:0A:D5:FE:5C:EF,Apt 29
+A4:83:E7:AA:E2:7D, 2023-12-07 20:45:40, 2023-12-07 20:46:09,  -1,       36, B0:0A:D5:FE:5C:EF,
+4A:78:BB:84:18:26, 2023-12-07 20:45:45, 2023-12-07 21:55:53,  -1,       84, B0:0A:D5:FE:5C:EF,
+
