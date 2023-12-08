@@ -1,5 +1,5 @@
 import os
-
+# git push checkup
 os.system("airmon-ng start wlan0")
 os.system("airodump-ng wlan0mon")
 
