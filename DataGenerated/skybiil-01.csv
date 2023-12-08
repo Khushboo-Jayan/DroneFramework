@@ -1,6 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-D4:52:EE:8B:26:42, 2023-12-07 20:02:58, 2023-12-07 20:06:44, 11, 130, WPA2, CCMP, PSK, -87,      264,      203,   0.  0.  0.  0,   8, SKYXBIIL, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-
