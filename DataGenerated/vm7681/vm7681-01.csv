@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+34:2C:C4:0E:E9:F4, 2023-12-08 01:10:14, 2023-12-08 01:12:02, 11, 130, WPA2, CCMP, PSK, -75,      841,       71,   0.  0.  0.  0,   9, VM7681335, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+6E:03:B0:C8:AC:74, 2023-12-08 01:10:20, 2023-12-08 01:11:58,  -1,       47, 34:2C:C4:0E:E9:F4,
+
