@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+F4:23:9C:B3:B4:81, 2023-12-08 01:36:56, 2023-12-08 01:38:28,  2, 195, WPA2 WPA, CCMP TKIP, PSK, -81,      153,        6,   0.  0.  0.  0,  13, VODAFONE-B480, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
